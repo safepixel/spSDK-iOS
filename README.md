@@ -1,0 +1,1 @@
+## Documentation and all Details can be found at https://sdk.safepixel.app

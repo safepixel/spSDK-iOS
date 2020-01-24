@@ -1,0 +1,11 @@
+framework module spSDK {
+  umbrella header "spSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module spSDK.Swift {
+    header "spSDK-Swift.h"
+    requires objc
+}
